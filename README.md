@@ -2,19 +2,19 @@
 # Education
 
 
-##Work experience
+
 ## Projects
 ### Projekt1
 [Publication](link)
 
 w trakcie przygotowania
 
-![EEG Band Discovery](link)
+![Nazwa](link)
 
 ### Projekt2
 [Publication](link)
 
-#![Bike Study](link)
+#![Nazwa](link)
 ## Work experience
 w trakcie przygotowania
 
