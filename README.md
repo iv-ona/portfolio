@@ -4,7 +4,8 @@
 
 
 ## Projects
-### Projekt1
+### "My personal budget"- project is prepared with Miscrosoft Excel Software
+Data collected for the project for statements from my personal bank accounts. During the project, I focused on observing my household budget and optimizing the funds used.
 [Publication](link)
 
 w trakcie przygotowania
