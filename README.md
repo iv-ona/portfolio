@@ -19,5 +19,22 @@ w trakcie przygotowania
 ## Work experience
 w trakcie przygotowania
 
-## Talks & Lectures
-w trakcie przygotowania
+## Courses
+Microso fo
+
+## Education
+-Cracow University of Technology
+
+-Rzeszow University of Technology
+## Work experience
+Hutchinson Poland Sp. z.o.o.
+Tool Development Specialist in
+
+CAD/CAM Specialist
+
+Sturm-Gruppe
+Intern
+
+PZL Sędziszów S.A.
+Intern
+
