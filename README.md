@@ -1,6 +1,6 @@
 # Data Analyst
 # Education
-#### Technical Skills: SQL, EXCEL, PowerBI, Python
+#### Technical Skills: SQL, Microsoft EXCEL, PowerBI, Python
 
 
 ## Projects
